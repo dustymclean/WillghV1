@@ -1,0 +1,7 @@
+{
+  "name": "Will Grigsby - Private Photography Vault",
+  "description": "A bespoke professional photography management platform for Will Grigsby. Features high-end portfolio galleries and a secure client vault for private photo delivery.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
